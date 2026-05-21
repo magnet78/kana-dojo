@@ -485,5 +485,17 @@
     "mainColor": "oklch(72.0% 0.055 200.0 / 1)",
     "secondaryColor": "oklch(62.0% 0.095 320.0 / 1)",
     "name": "Karasu Black"
+  },
+  {
+    "id": "mountain-onsen",
+    "backgroundColor": "oklch(20.0% 0.018 210.0 / 1)",
+    "mainColor": "oklch(80.0% 0.085 200.0 / 1)",
+    "secondaryColor": "oklch(68.0% 0.105 160.0 / 1)"
+  },
+  {
+    "id": "holographic-idol",
+    "backgroundColor": "oklch(14.0% 0.065 300.0 / 1)",
+    "mainColor": "oklch(82.0% 0.185 200.0 / 1)",
+    "secondaryColor": "oklch(78.0% 0.210 330.0 / 1)"
   }
 ]
